@@ -1,0 +1,56 @@
+{
+  "applications": [
+    {
+      "name": "Telegram",
+      "link": "https://api.github.com/repos/telegramdesktop/tdesktop/releases/latest"
+    },
+    {
+      "name": "WhatsApp",
+      "link": "https://get.microsoft.com/installer/download/9NKSQGP7F2NH?cid=website_cta_psi"
+    },
+    {
+      "name": "7-Zip",
+      "link": "https://api.github.com/repos/ip7z/7zip/releases/latest"
+    },
+    {
+      "name": "Steam",
+      "link": "https://cdn.fastly.steamstatic.com/client/installer/SteamSetup.exe"
+    },
+    {
+      "name": "ShareX",
+      "link": "https://api.github.com/repos/ShareX/ShareX/releases/latest"
+    },
+    {
+      "name": "Hydra",
+      "link": "https://api.github.com/repos/hydralauncher/hydra/releases/latest"
+    },
+    {
+      "name": "Cent Browser",
+      "link": "https://static.centbrowser.com/win_stable/"
+    },
+    {
+      "name": "Google Chrome",
+      "link": "http://dl.google.com/chrome/install/chrome_installer.exe"
+    },
+    {
+      "name": "Yandex Browser",
+      "link": "https://download.yandex.ru/downloadable_soft/browser/15740/Yandex.exe"
+    },
+    {
+      "name": "",
+      "link": ""
+    },
+    {
+      "name": "",
+      "link": ""
+    },
+    {
+      "name": "",
+      "link": ""
+    },
+    {
+      "name": "Visual Studio 2022",
+      "link": "https://c2rsetup.officeapps.live.com/c2r/downloadVS.aspx?sku=community&channel=Release&version=VS2022"
+    }
+  ]
+}
