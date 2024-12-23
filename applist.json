@@ -17,12 +17,32 @@
       "link": "https://cdn.fastly.steamstatic.com/client/installer/SteamSetup.exe"
     },
     {
-      "name": "ShareX",
-      "link": "https://api.github.com/repos/ShareX/ShareX/releases/latest"
+      "name": "Epic Games",
+      "link": "https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/installer/download/EpicGamesLauncherInstaller.msi"
+    },
+    {
+      "name": "GOG GALAXY",
+      "link": "https://webinstallers.gog-statics.com/download/GOG_Galaxy_2.0.exe"
     },
     {
       "name": "Hydra",
       "link": "https://api.github.com/repos/hydralauncher/hydra/releases/latest"
+    },
+    {
+      "name": "UNITY",
+      "link": "https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe"
+    },
+    {
+      "name": "Blender",
+      "link": "https://ftp.halifax.rwth-aachen.de/blender/release/Blender4.3/blender-4.3.2-windows-x64.msi"
+    },
+    {
+      "name": "Unreal Engine",
+      "link": "https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/installer/download/EpicGamesLauncherInstaller.msi"
+    },
+    {
+      "name": "ShareX",
+      "link": "https://api.github.com/repos/ShareX/ShareX/releases/latest"
     },
     {
       "name": "Cent Browser",
@@ -39,6 +59,46 @@
     {
       "name": "Visual Studio 2022",
       "link": "https://aka.ms/vs/17/release/vs_community.exe"
+    },
+    {
+      "name": "Audacity",
+      "link": "https://api.github.com/repos/audacity/audacity/releases/latest"
+    },
+    {
+      "name": "Outline Client",
+      "link": "https://s3.amazonaws.com/outline-releases/client/windows/stable/Outline-Client.exe"
+    },
+    {
+      "name": "Outline Manager",
+      "link": "https://s3.amazonaws.com/outline-releases/manager/windows/stable/Outline-Manager.exe"
+    },
+    {
+      "name": "Windows Package Manager",
+      "link": "https://api.github.com/repos/microsoft/winget-cli/releases/latest"
+    },
+    {
+      "name": "GitHub Desktop",
+      "link": "https://api.github.com/repos/desktop/desktop/releases/latest"
+    },
+    {
+      "name": "OBS Studio",
+      "link": "https://api.github.com/repos/obsproject/obs-studio/releases/latest"
+    },
+    {
+      "name": "VLC",
+      "link": "https://get.videolan.org/vlc/3.0.21/win64/"
+    },
+    {
+      "name": "PotPlayer",
+      "link": "https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe"
+    },
+    {
+      "name": "qBittorrent",
+      "link": "https://dl.comss.org/download/qbittorrent_5.0.3_x64_setup.exe"
+    },
+    {
+      "name": "WizTree",
+      "link": "https://antibodysoftware-17031.kxcdn.com/files/wiztree_4_23_portable.zip"
     }
   ]
 }
